@@ -140,7 +140,7 @@ Welcome to my GitHub! I am a passionate developer currently building my foundati
       </td>
       <td align="center" style="border: none;">
         <a href="https://github.com/IrynOoi/MAD_ASSIGNMENT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrynOoi&repo=MAD_ASSIGNMENT&theme=solarized-light" alt="MAD Assignment" />
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrynOoi&repo=MAD_ASSIGNMENT&theme=solarized-light&v=1" alt="MAD Assignment" />
         </a>
       </td>
     </tr>
