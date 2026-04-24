@@ -109,31 +109,44 @@ Welcome to my GitHub! I am a passionate developer currently building my foundati
   </tr>
 </table>
 
-<div align="center"><h3>📈 Recent Contribution Graph</h3>
+<div align="center">
+  <h3>📈 Recent Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrynOoi&theme=solarized-light&hide_border=true&bg_color=fdf6e3" alt="Activity Graph" />
   <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=IrynOoi&icon=0&color=0" alt="Profile Views"></a>
 </div>
 
 ---
 
-
 <div align="center">
-  <h3>🔝 Top Projects</h3>
+  <h3>🤖 AI & Featured Projects</h3>
   <table align="center" style="border: none; background-color: transparent;">
     <tr style="border: none;">
-      <td align="center" style="border: none;">
-        <a href="https://github.com/IrynOoi/pharmacy-workshop1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrynOoi&repo=pharmacy-workshop1&theme=solarized-light" alt="Pharmacy Workshop" />
-        </a>
-      </td>
       <td align="center" style="border: none;">
         <a href="https://github.com/IrynOoi/ai_intelligence_attendance_evaluator">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrynOoi&repo=ai_intelligence_attendance_evaluator&theme=solarized-light" alt="AI Attendance Evaluator" />
         </a>
       </td>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/IrynOoi/workshop2_ipetro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrynOoi&repo=workshop2_ipetro&theme=solarized-light" alt="iPetro Workshop" />
+        </a>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" style="border: none;">
+        <a href="https://github.com/IrynOoi/MAD-PROJECT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrynOoi&repo=MAD-PROJECT&theme=solarized-light" alt="MAD Project" />
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/IrynOoi/MAD_ASSIGNMENT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrynOoi&repo=MAD_ASSIGNMENT&theme=solarized-light" alt="MAD Assignment" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
+
 <div align="center">
   <h3>💡 Words to Code By</h3>
   <blockquote>
