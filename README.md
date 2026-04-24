@@ -116,7 +116,24 @@ Welcome to my GitHub! I am a passionate developer currently building my foundati
 
 ---
 
->
+
+<div align="center">
+  <h3>🔝 Top Projects</h3>
+  <table align="center" style="border: none; background-color: transparent;">
+    <tr style="border: none;">
+      <td align="center" style="border: none;">
+        <a href="https://github.com/IrynOoi/pharmacy-workshop1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrynOoi&repo=pharmacy-workshop1&theme=solarized-light" alt="Pharmacy Workshop" />
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/IrynOoi/ai_intelligence_attendance_evaluator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrynOoi&repo=ai_intelligence_attendance_evaluator&theme=solarized-light" alt="AI Attendance Evaluator" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <div align="center">
   <h3>💡 Words to Code By</h3>
   <blockquote>
