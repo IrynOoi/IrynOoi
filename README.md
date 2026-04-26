@@ -10,7 +10,9 @@
   <a href="https://instagram.com/xienxien5653"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/ooi-xien-xien-8883b8294/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitch.tv/qiqiaowubi"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white" alt="Twitch"></a>
-  <a href="https://youtube.com/@UC0GC4T6dOid-5tfc-K1TLeg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@%E5%A5%87%E5%B7%A7%E7%84%A1%E6%AF%94">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube">
+</a>
   <a href="mailto:xienxien13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
